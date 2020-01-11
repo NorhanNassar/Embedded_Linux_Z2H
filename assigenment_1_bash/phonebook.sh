@@ -1,4 +1,5 @@
 #!/bin/bash
+
 if [ -f "phonebookDB.txt" ]
 then
  echo ""
